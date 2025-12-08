@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1762303164203,
+    "nombre": "lau",
+    "apellido": "Peres",
+    "dni": "344444444",
+    "telefono": "111111111",
+    "fechaNac": "2020-11-02",
+    "motivoConsulta": "No puede quedarse sentado ",
+    "nivelEducativo": "Primario (en curso)",
+    "gradoCurso": "1",
+    "genero": "Masculino"
+  },
+  {
+    "id": 1762389568828,
+    "nombre": "lorena",
+    "apellido": "pepe",
+    "dni": "545456789",
+    "telefono": "22222222",
+    "fechaNac": "2013-03-10",
+    "motivoConsulta": "Se pierde en las clases, no puede prestar atención",
+    "nivelEducativo": "Secundario (en curso)",
+    "gradoCurso": "1",
+    "genero": "Femenino"
+  },
+  {
+    "id": 1762390512110,
+    "nombre": "Walter",
+    "apellido": "walterio",
+    "dni": "34477561",
+    "telefono": "1525047915",
+    "fechaNac": "2016-01-22",
+    "motivoConsulta": "Cambio de ciclo escolar, no logra adaptarse",
+    "nivelEducativo": "Primario (en curso)",
+    "gradoCurso": "4",
+    "genero": "Masculino"
+  },
+  {
+    "id": 1762390784962,
+    "nombre": "Laura",
+    "apellido": "walterio",
+    "dni": "28525252",
+    "telefono": "1525047915",
+    "fechaNac": "2018-01-30",
+    "motivoConsulta": "No logra aprender a leer",
+    "nivelEducativo": "Primario (en curso)",
+    "gradoCurso": "2",
+    "genero": "f"
+  },
+  {
+    "id": 1762391577272,
+    "nombre": "Laura",
+    "apellido": "Gomez",
+    "dni": "34477861",
+    "telefono": "55555555",
+    "fechaNac": "2023-01-29",
+    "motivoConsulta": "No logra realizar las propuestas escolares",
+    "nivelEducativo": "Inicial (en curso)",
+    "gradoCurso": "3",
+    "genero": "Femenino"
+  },
+  {
+    "id": 1762946965681,
+    "nombre": "Laura",
+    "apellido": "Perezi",
+    "dni": "34555678",
+    "telefono": "112323244",
+    "fechaNac": "2020-05-12",
+    "motivoConsulta": "Dificultades para prestar atención",
+    "nivelEducativo": "Inicial (en curso)",
+    "gradoCurso": "4",
+    "genero": "Femenino"
+  }
+]
