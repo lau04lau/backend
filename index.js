@@ -10,6 +10,7 @@ const cors = require("cors")
 
 
 const app = express()
+app.use(cors())
 app.use(express.json())
 
 const JWT_SECRET = process.env.JWT_SECRET || "2tW5Hk8jRzM9pG7f"
